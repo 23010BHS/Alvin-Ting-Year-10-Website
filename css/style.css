@@ -2,7 +2,7 @@
 html{
   font-family: Arial, Helvetica, sans-serif;
   margin: 0rem 2rem;
-  background-color: #ffffff;
+  background-color: #52c79a;
 }
 
 /* Banner image*/
@@ -22,7 +22,7 @@ nav ul{
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: grey;
+  background-color: #4a4a4a;
   top: 0;
   width: 100%;
   text-align: center;
@@ -44,7 +44,7 @@ nav li a{
 }
 
 nav li:hover{
-  background-color: orangered;
+  background-color: #d79537;
 }
 
 nav #active{
